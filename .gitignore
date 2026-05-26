@@ -1,0 +1,20 @@
+# Compiled binaries
+*.exe
+*.out
+*.o
+*.obj
+
+# Build folders
+build/
+bin/
+
+# VSCode debug files
+.vscode/launch.json
+.vscode/tasks.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
